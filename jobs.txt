@@ -1,0 +1,2 @@
+tor --ControlPort 9051
+ruby app.rb
